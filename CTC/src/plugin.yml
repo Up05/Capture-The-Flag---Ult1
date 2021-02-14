@@ -1,0 +1,5 @@
+name: captureTheCrystal
+version: 1.0
+author: Ult1
+main: com.ultimatepeace05.ctc.Ctc
+api-version: 1.12.2
